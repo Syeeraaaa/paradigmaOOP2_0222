@@ -9,3 +9,8 @@ class seseorang
         cout << "Pesan dari seseoarang" << endl;
     }
 };
+
+class joko : public seseorang
+{
+   
+};
