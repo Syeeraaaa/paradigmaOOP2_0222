@@ -17,3 +17,10 @@ class derivedClass : public baseClass
         cout << "Hallo saya function dari drivedClass"
     }
 };
+
+int main(){
+    derivedClass a;
+    a.perkenalan();
+
+    return 0;
+}
